@@ -1,0 +1,47 @@
+*{ margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+
+
+.App{ 
+
+display: flex;
+flex-direction: column;
+align-items: center;
+
+
+}
+
+
+
+
+
+
+button{ 
+
+width: 25%;
+background-color: burlywood;
+color: white;
+padding: 10px;
+font-size: 20px;
+border-radius: 10px;
+border: 1px solid black ;
+margin: 1rem;
+}
+
+.courseList{
+  display: flex;
+  flex-wrap: wrap;
+justify-content: center;}
+
+
+
+
+
+
+
+
+
+
+
